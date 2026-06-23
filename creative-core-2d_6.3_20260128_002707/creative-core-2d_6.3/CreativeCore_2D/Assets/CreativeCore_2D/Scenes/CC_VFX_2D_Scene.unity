@@ -5351,6 +5351,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: VFX_ParticleSystem_Smoke
       objectReference: {fileID: 0}
+    - target: {fileID: 8489576561679498681, guid: 733ad67fe33374ceb901e5aa47eea3c4,
+        type: 3}
+      propertyPath: ShapeModule.type
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 8489576561679498681, guid: 733ad67fe33374ceb901e5aa47eea3c4,
+        type: 3}
+      propertyPath: InitialModule.gravitySource
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
